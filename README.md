@@ -1,8 +1,8 @@
-# Website for MATH 250 Data Analysis, at Azusa Pacific University (Fall 2022)
+# Website for MATH 250 Data Analysis, at Azusa Pacific University (Fall 2026)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b5482937-2683-4da7-a16b-028071cd40f6/deploy-status)](https://app.netlify.com/sites/apumath250/deploys)
 
-:link: [https://F26apumath250.netlify.app](https://apumath250.netlify.app)
+:link: [https://F26apumath250.netlify.app](https://f26apumath250.netlify.app)
 
 ## Colors
 
@@ -14,6 +14,7 @@
 - The website design is derived from  [tidymodels.org](https://www.tidymodels.org) via [https://sta199-fa21-003.netlify.app](https://sta199-fa21-003.netlify.app) with inspiration from [datavizm20](https://datavizm20.classes.andrewheiss.com) and [introds.org](https://introds.org/).
 
 - Many of the slides and assignments are adapted from [Data Science in a Box](https://datasciencebox.org/) by Mine &Ccedil;etinkaya-Rundel.
+- Special thanks to Katie Fitsgerald for originally adapting this course for Azusa Pacific University.
 
 <hr> 
 
