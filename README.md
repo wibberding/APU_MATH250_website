@@ -2,7 +2,7 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b5482937-2683-4da7-a16b-028071cd40f6/deploy-status)](https://app.netlify.com/sites/apumath250/deploys)
 
-:link: [https://apumath250.netlify.app](https://apumath250.netlify.app)
+:link: [https://F26apumath250.netlify.app](https://apumath250.netlify.app)
 
 ## Colors
 
